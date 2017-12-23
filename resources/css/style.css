@@ -1,21 +1,19 @@
 body{
   font-family: Verdana;
+  color: white;
   background-color: black;
   text-align: center;
 }
 
 h1 {
   font-size: 50px;
-  color: white;
 }
 
 h2{
   font-size: 42px;
-  font-weight: 300;
-  color: white;
 }
 
-p, .copyright{
+p, .footer{
   color: grey;
   font-size: 21px;
 }
@@ -25,6 +23,6 @@ p, .copyright{
   font-size: 16px;
 }
 
-.copyright {
+.footer {
   text-align: right;
 }
